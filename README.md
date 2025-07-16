@@ -1,2 +1,2 @@
-Implemented a convolutional neural network (CNN) model in Python that classifies emotions from images of 2D cartoon characters’ facial expressions 
-and analyzed the results to gain more insight on how to improve visual emotion interpretation by machines.
+• Developed a model that predicts the emotions of two dimensional cartoon characters through the use of a convolutional neural network and a diverse set of training images <br/>
+• Developed using Python
